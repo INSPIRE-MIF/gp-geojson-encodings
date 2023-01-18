@@ -1,2 +1,2 @@
-# gp-geojson-encodings
-Good practice for GeoJSON encodings of INSPIRE datasets 
+# GeoJSON encoding of INSPIRE datasets
+Repository containing GeoJSON-specific encoding guidelines and implementation examples from INSPIRE implementers.
