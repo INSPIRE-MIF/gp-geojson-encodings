@@ -55,6 +55,7 @@ Enhance the usability of INSPIRE data in web and mobile applications and data sh
 
 ## Intended Outcome
 The expected outcome is that the various communities of INSPIRE implementers create logical data models for GeoJSON for a wide range of INSPIRE themes and use cases. To make sure interoperability and compliance are guaranteed, all these implementers rely on the common process and set of rules described in this good practice.
+
 ## Evidence of implementation & support
 The good practice does not require any specific tool support beyond basic support for the GeoJSON specification. The GeoJSON is supported by all major GIS tools such as ArcGIS and QGIS, ETL tools such as hale studio and FME, and libraries such as GDAL/OGR. 
 
@@ -62,7 +63,7 @@ The Good Practice also requires the submission of formal model transformation an
 
 *Concrete implementations*
 
-TConcrete implementations of the good practice are provided as issues in the in the[repository for the GeoJSON encoding](https://github.com/INSPIRE-MIF/gp-GeoJSON-encodings)using the [ad-hoc template](https://github.com/INSPIRE-MIF/gp-geojson-encodings/issues/new?assignees=&labels=&template=share_implementation_evidence.md). 
+Concrete implementations of the good practice are provided as issues in the in the[repository for the GeoJSON encoding](https://github.com/INSPIRE-MIF/gp-GeoJSON-encodings)using the [ad-hoc template](https://github.com/INSPIRE-MIF/gp-geojson-encodings/issues/new?assignees=&labels=&template=share_implementation_evidence.md). 
 
 
 # Limitations
