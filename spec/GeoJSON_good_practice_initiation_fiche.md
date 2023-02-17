@@ -63,7 +63,7 @@ The Good Practice also requires the submission of formal model transformation an
 
 *Concrete implementations*
 
-Concrete implementations of the good practice are provided as issues in the in the[repository for the GeoJSON encoding](https://github.com/INSPIRE-MIF/gp-GeoJSON-encodings)using the [ad-hoc template](https://github.com/INSPIRE-MIF/gp-geojson-encodings/issues/new?assignees=&labels=&template=share_implementation_evidence.md). 
+Concrete implementations of the good practice are provided as issues in the in the [repository for the GeoJSON encoding](https://github.com/INSPIRE-MIF/gp-GeoJSON-encodings) using the [ad-hoc template](https://github.com/INSPIRE-MIF/gp-geojson-encodings/issues/new?assignees=&labels=&template=share_implementation_evidence.md). 
 
 
 # Limitations
